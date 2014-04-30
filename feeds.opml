@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="2.0">
+    <head>
+        <title>gPodder subscriptions</title>
+        <dateCreated>Tue, 29 Apr 2014 02:00:57 +0200</dateCreated>
+    </head>
+    <body>
+        <outline text="" title="LateLine" type="rss" xmlUrl="http://podcast.hr-online.de/lateline/podcast.xml"/>
+        <outline text="Menschen! Technik! Sensationen!" title="Freak Show" type="rss" xmlUrl="http://freakshow.fm/feed/opus/"/>
+        <outline text="Diskutieren, reden, streiten, lachen, weinen - alles ist möglich in den Blue-Moon-Sprechstunden, jeden Abend von 22 bis 0 Uhr - dienstags und mittwochs von 22 bis 23 Uhr. Wir sprechen mit Euch über aktuelle Themen und alles, was Euch auf der Seele brennt. Was Ihr dazu machen müsst? Nur die FritzHörer-Hotline wählen: 0331 - 70 97 110! Wenn Ihr aber nur hören und nicht sprechen möchtet, bekommt Ihr den Blue Moon auch als Podcast." title="Blue Moon" type="rss" xmlUrl="http://www.fritz.de/podcasts/sendungen/Blue_Moon.feed.podcast.xml"/>
+        <outline text="Die Internationale Unterhaltungsgala mit Tim Pritlove und Holger Klein" title="Not Safe For Work" type="rss" xmlUrl="http://not-safe-for-work.de/feed/opus/"/>
+        <outline text="Die wöchentliche Talkrunde rund um Apple, Mac, iPod + iPhone, Gadgets und so. Fast live aus München." title="Bits und so" type="rss" xmlUrl="http://www.bitsundso.de/feed/"/>
+        <outline text="Der Interview-Podcast mit Tim Pritlove" title="CRE: Technik, Kultur, Gesellschaft" type="rss" xmlUrl="http://cre.fm/feed/opus/"/>
+        <outline text="Das monatliche Live-Talk-Radio auf Fritz" title="Chaosradio" type="rss" xmlUrl="http://chaosradio.ccc.de/chaosradio-latest.rss"/>
+        <outline text="c't uplink: News aus Nerdistan" title="c't uplink" type="rss" xmlUrl="http://blog.ct.de/ctuplink/ctuplink.rss"/>
+        <outline text="" title="TheRadio.CC: LinuxLounge" type="rss" xmlUrl="http://rec.theradio.cc/feeds/linuxlounge/mp3/"/>
+        <outline text="" title="TheRadio.CC: DiasporaNight" type="rss" xmlUrl="http://rec.theradio.cc/feeds/diasporanight/mp3/"/>
+        <outline text="Die Welt der Computer aus Sicht Normalsterblicher." title="n00bcore" type="rss" xmlUrl="http://n00bcore.de/feed/mp3/"/>
+        <outline text="Plauderei, Irritation, Wellness" title="WRINT" type="rss" xmlUrl="http://www.wrint.de/feed/podcast/"/>
+    </body>
+</opml>
